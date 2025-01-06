@@ -1,2 +1,1 @@
-# MySQL-Comands
-MySQL Learn 
+This is what I have learned from School
